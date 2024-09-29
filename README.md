@@ -16,10 +16,7 @@
   
 <div style="display: inline_block">
   <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="SwiftUI" height="50" width="60" src="https://link-to-your-swiftui-logo.com/swiftui-logo.png">
   <img align="center" alt="Xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
-  <img align="center" alt="SwiftData" height="50" width="60" src="https://link-to-your-swiftdata-logo.com/swiftdata-logo.png">
-
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">

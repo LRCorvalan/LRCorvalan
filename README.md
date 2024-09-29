@@ -5,6 +5,7 @@
 -->
 #### About me
 
+- 📱 I am a iOS Devloper
 - 🎓 I’m currently pursuing my Bachelor's in Computer Science
 - 🧑‍🏫 I’m teaching online students of Swift
 - 🔬 I’m always learning more about Swfit
